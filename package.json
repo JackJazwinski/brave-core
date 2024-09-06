@@ -180,9 +180,9 @@
     "@ledgerhq/hw-transport-webhid": "6.24.1",
     "@mozilla/readability": "^0.4.2",
     "@reduxjs/toolkit": "1.8.6",
-    "@solana/web3.js": "1.91.7",
-    "@trezor/connect": "9.1.11",
-    "@trezor/connect-web": "9.1.11",
+    "@solana/web3.js": "1.95.1",
+    "@trezor/connect": "9.3.0",
+    "@trezor/connect-web": "9.3.0",
     "@types/jszip": "^3.1.6",
     "@types/parse-torrent": "^5.8.3",
     "@types/react-router-dom": "^5.3.3",
@@ -208,7 +208,7 @@
     "redux-thunk": "^2.3.0",
     "throttleit": "^1.0.0",
     "webext-redux": "^2.1.4",
-    "webtorrent": "^0.114.0"
+    "webtorrent": "^2.2.2"
   },
   "overrides": {
     "axios": "1.6.0",
